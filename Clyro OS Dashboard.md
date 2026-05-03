@@ -1,7 +1,7 @@
 # 🏠 Clyro OS — Dashboard
 
-> **Dernière mise à jour :** 2026-05-01
-> **Géré par :** JARVIS (CEO Agent)
+> **Dernière mise à jour :** 2026-05-03
+> **Géré par :** JARVIS (CEO Agent) · COULSON (Knowledge Management)
 
 ---
 
@@ -30,7 +30,7 @@ Clyro regroupe 3 axes :
 |---|---|---|
 | **JARVIS** | CEO / Chef d'orchestre | ✅ Actif |
 | **FURY** | Veille concurrentielle | ✅ Actif (cron 09:00) |
-| **COULSON** | Knowledge Management & SOPs | 🟡 À créer |
+| **COULSON** | Knowledge Management & SOPs | ✅ Actif |
 | **SHURI** | Delivery Ops | 🟡 Phase 2 |
 | **STEVE** | Growth & Prospection | 🟡 Phase 2 |
 | **STARK** | Product Discovery SaaS | 🟡 Phase 3 |
