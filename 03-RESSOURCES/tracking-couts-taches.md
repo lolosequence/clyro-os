@@ -103,11 +103,11 @@ Les chiffres sont des **ordres de grandeur fiables** mais pas exacts au centime.
 
 ### Cout total actuel (2 cronjobs, qwen3.6-plus)
 
-| Tache | Cout/run USD | Runs/mois | Cout/mois USD | Cout/mois EUR |
-|-------|-------------:|----------:|--------------:|--------------:|
-| FURY | $0.000587 | 30 | $0.0176 | €0.016 |
-| COULSON | $0.000602 | 30 | $0.0181 | €0.017 |
-| **TOTAL** | | | **$0.0357** | **€0.032** |
+| Tache     | Cout/run USD | Runs/mois | Cout/mois USD | Cout/mois EUR |
+| --------- | -----------: | --------: | ------------: | ------------: |
+| FURY      |    $0.000587 |        30 |       $0.0176 |        €0.016 |
+| COULSON   |    $0.000602 |        30 |       $0.0181 |        €0.017 |
+| **TOTAL** |              |           |   **$0.0357** |    **€0.032** |
 
 ### Si on passait a Claude Sonnet 4
 
