@@ -7,38 +7,38 @@
 ---
 
 ## autonomous-ai-agents (7 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `claude-code` | Deleguer des taches a Claude Code CLI | |
-| `codex` | Deleguer des taches a OpenAI Codex CLI | |
-| `coulson-knowledge-sop` | COULSON — Knowledge Management & SOP pour le vault Obsidian | |
-| `fury-competitor-monitor` | FURY — Monitoring concurrentiel automatise (web scraping) | |
-| `hermes-agent` | Guide complet Hermes Agent — CLI, config, skills, tools | |
-| `jarvis-ceo-agent` | JARVIS — CEO agent pour Clyro, responsabilites, workers | |
-| `opencode` | Deleguer des taches a OpenCode CLI agent | |
+| Skill                     | Description                                                 | A garder ? |
+| ------------------------- | ----------------------------------------------------------- | ---------- |
+| `claude-code`             | Deleguer des taches a Claude Code CLI                       | Oui        |
+| `codex`                   | Deleguer des taches a OpenAI Codex CLI                      | Oui        |
+| `coulson-knowledge-sop`   | COULSON — Knowledge Management & SOP pour le vault Obsidian | Oui        |
+| `fury-competitor-monitor` | FURY — Monitoring concurrentiel automatise (web scraping)   | Oui        |
+| `hermes-agent`            | Guide complet Hermes Agent — CLI, config, skills, tools     | Oui        |
+| `jarvis-ceo-agent`        | JARVIS — CEO agent pour Clyro, responsabilites, workers     | Oui        |
+| `opencode`                | Deleguer des taches a OpenCode CLI agent                    | non        |
 
 ## creative (19 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `architecture-diagram` | Diagrammes d'architecture (HTML/SVG) dark-themed | |
-| `ascii-art` | Generation ASCII art (571 fonts) | |
-| `ascii-video` | Pipeline video ASCII animee | |
-| `baoyu-comic` | Bandes dessinees educatives | |
-| `baoyu-infographic` | Infographies (21 layouts x 21 styles) | |
-| `claude-design` | Design artifacts HTML (landing, deck, prototype) | |
-| `comfyui` | Generation images/video/audio avec ComfyUI | |
-| `design-md` | Fichiers spec DESIGN.md (Google tokens) | |
-| `excalidraw` | Diagrammes style manuscrit Excalidraw | |
-| `humanizer` | Humaniser le texte, supprimer AI-isms | |
-| `ideation` | Generation d'idees de projets par contraintes creatives | |
-| `manim-video` | Animations mathematiques style 3Blue1Brown | |
-| `p5js` | Art visuel interactif p5.js | |
-| `pixel-art` | Pixel art avec palettes retro (NES, GB, PICO-8) | |
-| `popular-web-designs` | 54 templates design systems (Stripe, Linear, Vercel...) | |
-| `pretext` | Demos texte creatif avec pretext | |
-| `sketch` | Mockups HTML jetables (2-3 variantes) | |
-| `songwriting-and-ai-music` | Songwriting + prompts musique AI (Suno) | |
-| `touchdesigner-mcp` | Controle TouchDesigner via MCP (36 outils) | |
+| Skill                      | Description                                             | A garder ? |
+| -------------------------- | ------------------------------------------------------- | ---------- |
+| `architecture-diagram`     | Diagrammes d'architecture (HTML/SVG) dark-themed        |            |
+| `ascii-art`                | Generation ASCII art (571 fonts)                        | Non        |
+| `ascii-video`              | Pipeline video ASCII animee                             | Non        |
+| `baoyu-comic`              | Bandes dessinees educatives                             | Non        |
+| `baoyu-infographic`        | Infographies (21 layouts x 21 styles)                   |            |
+| `claude-design`            | Design artifacts HTML (landing, deck, prototype)        |            |
+| `comfyui`                  | Generation images/video/audio avec ComfyUI              |            |
+| `design-md`                | Fichiers spec DESIGN.md (Google tokens)                 |            |
+| `excalidraw`               | Diagrammes style manuscrit Excalidraw                   |            |
+| `humanizer`                | Humaniser le texte, supprimer AI-isms                   |            |
+| `ideation`                 | Generation d'idees de projets par contraintes creatives |            |
+| `manim-video`              | Animations mathematiques style 3Blue1Brown              |            |
+| `p5js`                     | Art visuel interactif p5.js                             |            |
+| `pixel-art`                | Pixel art avec palettes retro (NES, GB, PICO-8)         |            |
+| `popular-web-designs`      | 54 templates design systems (Stripe, Linear, Vercel...) |            |
+| `pretext`                  | Demos texte creatif avec pretext                        |            |
+| `sketch`                   | Mockups HTML jetables (2-3 variantes)                   |            |
+| `songwriting-and-ai-music` | Songwriting + prompts musique AI (Suno)                 |            |
+| `touchdesigner-mcp`        | Controle TouchDesigner via MCP (36 outils)              |            |
 
 ## data-science (1 skill)
 | Skill | Description | A garder ? |
