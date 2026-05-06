@@ -20,160 +20,160 @@
 ## creative (19 skills)
 | Skill                      | Description                                             | A garder ? |
 | -------------------------- | ------------------------------------------------------- | ---------- |
-| `architecture-diagram`     | Diagrammes d'architecture (HTML/SVG) dark-themed        |            |
+| `architecture-diagram`     | Diagrammes d'architecture (HTML/SVG) dark-themed        | Non        |
 | `ascii-art`                | Generation ASCII art (571 fonts)                        | Non        |
 | `ascii-video`              | Pipeline video ASCII animee                             | Non        |
 | `baoyu-comic`              | Bandes dessinees educatives                             | Non        |
-| `baoyu-infographic`        | Infographies (21 layouts x 21 styles)                   |            |
-| `claude-design`            | Design artifacts HTML (landing, deck, prototype)        |            |
-| `comfyui`                  | Generation images/video/audio avec ComfyUI              |            |
-| `design-md`                | Fichiers spec DESIGN.md (Google tokens)                 |            |
-| `excalidraw`               | Diagrammes style manuscrit Excalidraw                   |            |
-| `humanizer`                | Humaniser le texte, supprimer AI-isms                   |            |
-| `ideation`                 | Generation d'idees de projets par contraintes creatives |            |
-| `manim-video`              | Animations mathematiques style 3Blue1Brown              |            |
-| `p5js`                     | Art visuel interactif p5.js                             |            |
-| `pixel-art`                | Pixel art avec palettes retro (NES, GB, PICO-8)         |            |
-| `popular-web-designs`      | 54 templates design systems (Stripe, Linear, Vercel...) |            |
-| `pretext`                  | Demos texte creatif avec pretext                        |            |
-| `sketch`                   | Mockups HTML jetables (2-3 variantes)                   |            |
-| `songwriting-and-ai-music` | Songwriting + prompts musique AI (Suno)                 |            |
-| `touchdesigner-mcp`        | Controle TouchDesigner via MCP (36 outils)              |            |
+| `baoyu-infographic`        | Infographies (21 layouts x 21 styles)                   | Non        |
+| `claude-design`            | Design artifacts HTML (landing, deck, prototype)        | Oui        |
+| `comfyui`                  | Generation images/video/audio avec ComfyUI              | Oui        |
+| `design-md`                | Fichiers spec DESIGN.md (Google tokens)                 | Non        |
+| `excalidraw`               | Diagrammes style manuscrit Excalidraw                   | Non        |
+| `humanizer`                | Humaniser le texte, supprimer AI-isms                   | Oui        |
+| `ideation`                 | Generation d'idees de projets par contraintes creatives | Non        |
+| `manim-video`              | Animations mathematiques style 3Blue1Brown              | Non        |
+| `p5js`                     | Art visuel interactif p5.js                             | Non        |
+| `pixel-art`                | Pixel art avec palettes retro (NES, GB, PICO-8)         | Non        |
+| `popular-web-designs`      | 54 templates design systems (Stripe, Linear, Vercel...) | Non        |
+| `pretext`                  | Demos texte creatif avec pretext                        | Non        |
+| `sketch`                   | Mockups HTML jetables (2-3 variantes)                   | Non        |
+| `songwriting-and-ai-music` | Songwriting + prompts musique AI (Suno)                 | Non        |
+| `touchdesigner-mcp`        | Controle TouchDesigner via MCP (36 outils)              | Non        |
 
 ## data-science (1 skill)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `jupyter-live-kernel` | Kernel Jupyter interactif pour exploration Python | |
+| Skill                 | Description                                       | A garder ? |
+| --------------------- | ------------------------------------------------- | ---------- |
+| `jupyter-live-kernel` | Kernel Jupyter interactif pour exploration Python | Non        |
 
 ## devops (6 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `kanban-orchestrator` | Playbook orchestration Kanban + roles specialistes | |
-| `kanban-profile-setup` | Config profils Hermes pour Kanban | |
-| `kanban-worker` | Pitfalls et edge cases pour workers Kanban | |
-| `nginx-ssl-hostinger-vps` | Config Nginx + SSL Let's Encrypt sur Hostinger VPS | |
-| `shell-scripting` | Patterns Bash scripting, heredocs, pipefail | |
-| `webhook-subscriptions` | Gestion webhooks pour activation agents | |
+| Skill                     | Description                                        | A garder ? |
+| ------------------------- | -------------------------------------------------- | ---------- |
+| `kanban-orchestrator`     | Playbook orchestration Kanban + roles specialistes | Oui        |
+| `kanban-profile-setup`    | Config profils Hermes pour Kanban                  | Oui        |
+| `kanban-worker`           | Pitfalls et edge cases pour workers Kanban         | Oui        |
+| `nginx-ssl-hostinger-vps` | Config Nginx + SSL Let's Encrypt sur Hostinger VPS | Oui        |
+| `shell-scripting`         | Patterns Bash scripting, heredocs, pipefail        | Oui        |
+| `webhook-subscriptions`   | Gestion webhooks pour activation agents            | Oui        |
 
 ## email (1 skill)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `himalaya` | CLI email IMAP/SMTP — lire, ecrire, repondre | |
+| Skill      | Description                                  | A garder ? |
+| ---------- | -------------------------------------------- | ---------- |
+| `himalaya` | CLI email IMAP/SMTP — lire, ecrire, repondre | Non        |
 
 ## github (6 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `codebase-inspection` | Analyse codebase avec pygount (LOC, lang breakdown) | |
-| `github-auth` | Setup auth GitHub (HTTPS tokens, SSH, gh CLI) | |
-| `github-code-review` | Review code via git diffs, commentaires PR | |
-| `github-issues` | Creer, trier, fermer issues GitHub | |
-| `github-pr-workflow` | Cycle complet PR — branches, commits, merge | |
-| `github-repo-management` | Clone, create, fork, configure repos GitHub | |
+| Skill                    | Description                                         | A garder ? |
+| ------------------------ | --------------------------------------------------- | ---------- |
+| `codebase-inspection`    | Analyse codebase avec pygount (LOC, lang breakdown) | Oui        |
+| `github-auth`            | Setup auth GitHub (HTTPS tokens, SSH, gh CLI)       | Oui        |
+| `github-code-review`     | Review code via git diffs, commentaires PR          | Oui        |
+| `github-issues`          | Creer, trier, fermer issues GitHub                  | Oui        |
+| `github-pr-workflow`     | Cycle complet PR — branches, commits, merge         | Oui        |
+| `github-repo-management` | Clone, create, fork, configure repos GitHub         | Oui        |
 
 ## leisure (1 skill)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `find-nearby` | Trouver lieux proches via OpenStreetMap | |
+| Skill         | Description                             | A garder ? |
+| ------------- | --------------------------------------- | ---------- |
+| `find-nearby` | Trouver lieux proches via OpenStreetMap | Non        |
 
 ## mcp (2 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `mcporter` | CLI pour lister/config/appler serveurs MCP | |
-| `native-mcp` | Client MCP natif Hermes — stdio/HTTP | |
+| Skill        | Description                                | A garder ? |
+| ------------ | ------------------------------------------ | ---------- |
+| `mcporter`   | CLI pour lister/config/appler serveurs MCP | Non        |
+| `native-mcp` | Client MCP natif Hermes — stdio/HTTP       | Non        |
 
 ## media (5 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `gif-search` | Recherche GIF Tenor via curl | |
-| `heartmula` | Generation musique open-source (Suno-like) | |
-| `songsee` | Spectrogrammes et visualisations audio | |
-| `spotify` | Spotify: play, search, queue, playlists | |
-| `youtube-content` | Transcripts YouTube → contenu structure | |
+| Skill             | Description                                | A garder ? |
+| ----------------- | ------------------------------------------ | ---------- |
+| `gif-search`      | Recherche GIF Tenor via curl               | Non        |
+| `heartmula`       | Generation musique open-source (Suno-like) | Non        |
+| `songsee`         | Spectrogrammes et visualisations audio     | Non        |
+| `spotify`         | Spotify: play, search, queue, playlists    | Non        |
+| `youtube-content` | Transcripts YouTube → contenu structure    | Oui        |
 
 ## mlops (22 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `audiocraft-audio-generation` | Audio/text-to-music (MusicGen, AudioGen) | |
-| `axolotl` | Fine-tuning LLMs avec Axolotl | |
-| `clip` | OpenAI CLIP — vision+language, image search | |
-| `dspy` | DSPy — programmation declarative de LMs | |
-| `evaluating-llms-harness` | Benchmarks LLMs (MMLU, HumanEval, GSM8K...) | |
-| `fine-tuning-with-trl` | Fine-tuning RL avec TRL (SFT, DPO, PPO, GRPO) | |
-| `gguf-quantization` | GGUF/llama.cpp quantization CPU/GPU | |
-| `grpo-rl-training` | GRPO/RL fine-tuning avec TRL | |
-| `guidance` | Generation contrainte (regex, grammaire, JSON/XML) | |
-| `huggingface-hub` | CLI HuggingFace Hub (hf) — models, datasets | |
-| `llama-cpp` | Inference LLM CPU/Apple Silicon/GPU sans CUDA | |
-| `modal-serverless-gpu` | GPU cloud serverless pour ML | |
-| `obliteratus` | Supprimer refus/guardrails des LLMs | |
-| `outlines` | Generation structuree (JSON/XML/code garanti) | |
-| `peft-fine-tuning` | Fine-tuning parametre-efficient (LoRA, QLoRA) | |
-| `pytorch-fsdp` | FSDP training PyTorch — parameter sharding | |
-| `segment-anything-model` | Segmentation d'images zero-shot (SAM) | |
-| `serving-llms-vllm` | Serve LLMs haute perf avec vLLM | |
-| `stable-diffusion-image-generation` | Text-to-image Stable Diffusion | |
-| `unsloth` | Fine-tuning rapide avec Unsloth (2-5x) | |
-| `weights-and-biases` | Tracking experiences ML, hyperparameter sweeps | |
-| `whisper` | Speech-to-text OpenAI (99 langues) | |
+| Skill                               | Description                                        | A garder ? |
+| ----------------------------------- | -------------------------------------------------- | ---------- |
+| `audiocraft-audio-generation`       | Audio/text-to-music (MusicGen, AudioGen)           | Non        |
+| `axolotl`                           | Fine-tuning LLMs avec Axolotl                      | Non        |
+| `clip`                              | OpenAI CLIP — vision+language, image search        | Non        |
+| `dspy`                              | DSPy — programmation declarative de LMs            | Non        |
+| `evaluating-llms-harness`           | Benchmarks LLMs (MMLU, HumanEval, GSM8K...)        | Non        |
+| `fine-tuning-with-trl`              | Fine-tuning RL avec TRL (SFT, DPO, PPO, GRPO)      | Non        |
+| `gguf-quantization`                 | GGUF/llama.cpp quantization CPU/GPU                | Non        |
+| `grpo-rl-training`                  | GRPO/RL fine-tuning avec TRL                       | Non        |
+| `guidance`                          | Generation contrainte (regex, grammaire, JSON/XML) | Non        |
+| `huggingface-hub`                   | CLI HuggingFace Hub (hf) — models, datasets        | Non        |
+| `llama-cpp`                         | Inference LLM CPU/Apple Silicon/GPU sans CUDA      | Non        |
+| `modal-serverless-gpu`              | GPU cloud serverless pour ML                       | Non        |
+| `obliteratus`                       | Supprimer refus/guardrails des LLMs                | Non        |
+| `outlines`                          | Generation structuree (JSON/XML/code garanti)      | Non        |
+| `peft-fine-tuning`                  | Fine-tuning parametre-efficient (LoRA, QLoRA)      | Non        |
+| `pytorch-fsdp`                      | FSDP training PyTorch — parameter sharding         | Non        |
+| `segment-anything-model`            | Segmentation d'images zero-shot (SAM)              | Non        |
+| `serving-llms-vllm`                 | Serve LLMs haute perf avec vLLM                    | Non        |
+| `stable-diffusion-image-generation` | Text-to-image Stable Diffusion                     | Non        |
+| `unsloth`                           | Fine-tuning rapide avec Unsloth (2-5x)             | Non        |
+| `weights-and-biases`                | Tracking experiences ML, hyperparameter sweeps     | Non        |
+| `whisper`                           | Speech-to-text OpenAI (99 langues)                 | Non        |
 
 ## note-taking (2 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `obsidian` | Lire, chercher, creer notes dans le vault | |
-| `obsidian-vault-sync` | Setup Git sync vault Obsidian server ↔ PC | |
+| Skill                 | Description                               | A garder ? |
+| --------------------- | ----------------------------------------- | ---------- |
+| `obsidian`            | Lire, chercher, creer notes dans le vault | Oui        |
+| `obsidian-vault-sync` | Setup Git sync vault Obsidian server ↔ PC | Oui        |
 
 ## productivity (8 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `airtable` | Airtable API via curl — CRUD records | |
-| `google-workspace` | Gmail, Calendar, Drive, Sheets, Docs | |
-| `linear` | Gestion issues/projects Linear via GraphQL | |
-| `maps` | Geocodage, POIs, routes via OpenStreetMap | |
-| `nano-pdf` | Editer PDFs avec instructions langage naturel | |
-| `notion` | Notion API — pages, databases, blocks via curl | |
-| `ocr-and-documents` | Extraction texte PDFs/scannes | |
-| `powerpoint` | Creation/modification presentations .pptx | |
+| Skill               | Description                                    | A garder ? |
+| ------------------- | ---------------------------------------------- | ---------- |
+| `airtable`          | Airtable API via curl — CRUD records           | Non        |
+| `google-workspace`  | Gmail, Calendar, Drive, Sheets, Docs           | Oui        |
+| `linear`            | Gestion issues/projects Linear via GraphQL     | Non        |
+| `maps`              | Geocodage, POIs, routes via OpenStreetMap      | Non        |
+| `nano-pdf`          | Editer PDFs avec instructions langage naturel  | Non        |
+| `notion`            | Notion API — pages, databases, blocks via curl | Oui        |
+| `ocr-and-documents` | Extraction texte PDFs/scannes                  | Non        |
+| `powerpoint`        | Creation/modification presentations .pptx      | Non        |
 
 ## red-teaming (1 skill)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `godmode` | Jailbreak LLMs via techniques G0DM0D3 | |
+| Skill     | Description                           | A garder ? |
+| --------- | ------------------------------------- | ---------- |
+| `godmode` | Jailbreak LLMs via techniques G0DM0D3 | Non        |
 
 ## research (6 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `arxiv` | Recherche papers arXiv | |
-| `blogwatcher` | Monitor blogs/RSS via blogwatcher-cli | |
-| `llm-wiki` | Karpathy LLM Wiki — knowledge base | |
-| `polymarket` | Donnees prediction markets Polymarket | |
-| `research-paper-writing` | Pipeline redaction papers ML/AI | |
+| Skill                    | Description                           | A garder ? |
+| ------------------------ | ------------------------------------- | ---------- |
+| `arxiv`                  | Recherche papers arXiv                | Non        |
+| `blogwatcher`            | Monitor blogs/RSS via blogwatcher-cli | Non        |
+| `llm-wiki`               | Karpathy LLM Wiki — knowledge base    | Non        |
+| `polymarket`             | Donnees prediction markets Polymarket | Non        |
+| `research-paper-writing` | Pipeline redaction papers ML/AI       | Non        |
 
 ## smart-home (1 skill)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `openhue` | Controle Philips Hue lights, rooms, scenes | |
+| Skill     | Description                                | A garder ? |
+| --------- | ------------------------------------------ | ---------- |
+| `openhue` | Controle Philips Hue lights, rooms, scenes | Non        |
 
 ## social-media (2 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `xitter` | X/Twitter via x-cli (API officielle) | |
-| `xurl` | X/Twitter via xurl CLI (post, search, DM) | |
+| Skill    | Description                               | A garder ? |
+| -------- | ----------------------------------------- | ---------- |
+| `xitter` | X/Twitter via x-cli (API officielle)      | Oui        |
+| `xurl`   | X/Twitter via xurl CLI (post, search, DM) | Oui        |
 
 ## software-development (12 skills)
-| Skill | Description | A garder ? |
-|-------|-------------|------------|
-| `debugging-hermes-tui-commands` | Debug commandes TUI Hermes | |
-| `hermes-agent-skill-authoring` | Author SKILL.md — frontmatter, validator | |
-| `node-inspect-debugger` | Debug Node.js via --inspect/CDP | |
-| `plan` | Mode plan Hermes — inspecter, ecrire plan | |
-| `python-debugpy` | Debug Python: pdb + debugpy remote | |
-| `requesting-code-review` | Pipeline verification pre-commit | |
-| `runtime-debuggers` | Debug processus live Python/Node/TUI | |
-| `spike` | Experiences jetables pour valider une idee | |
-| `subagent-driven-development` | Execution plans avec taches independantes | |
-| `systematic-debugging` | Debugging root cause — 4 phases | |
-| `test-driven-development` | TDD — RED-GREEN-REFACTOR | |
-| `writing-plans` | Plans implementation multi-etapes | |
+| Skill                           | Description                                | A garder ? |
+| ------------------------------- | ------------------------------------------ | ---------- |
+| `debugging-hermes-tui-commands` | Debug commandes TUI Hermes                 | Oui        |
+| `hermes-agent-skill-authoring`  | Author SKILL.md — frontmatter, validator   | Oui        |
+| `node-inspect-debugger`         | Debug Node.js via --inspect/CDP            | Oui        |
+| `plan`                          | Mode plan Hermes — inspecter, ecrire plan  | Oui        |
+| `python-debugpy`                | Debug Python: pdb + debugpy remote         | Oui        |
+| `requesting-code-review`        | Pipeline verification pre-commit           | Oui        |
+| `runtime-debuggers`             | Debug processus live Python/Node/TUI       | Oui        |
+| `spike`                         | Experiences jetables pour valider une idee | Oui        |
+| `subagent-driven-development`   | Execution plans avec taches independantes  | Oui        |
+| `systematic-debugging`          | Debugging root cause — 4 phases            | Oui        |
+| `test-driven-development`       | TDD — RED-GREEN-REFACTOR                   | Oui        |
+| `writing-plans`                 | Plans implementation multi-etapes          | Oui        |
 
 ---
 
