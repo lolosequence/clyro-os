@@ -41,5 +41,5 @@ Le brief est copié dans `30_Concurrents/` et référencé dans `30_Concurrents/
 - 💡 Ajouter des concurrents en éditant la skill `fury-competitor-monitor`
 
 ## Liens connexes
-- [[01_PROJETS/Clyro/Concurrents/Briefs FURY]]
+- [[Briefs FURY]]
 - [[Fury Competitor Monitor Skill]]
