@@ -29,5 +29,5 @@ COULSON maintient le vault Obsidian Clyro OS propre, structuré et à jour chaqu
 - ⚠️ Vérifier les wikilinks cassés après déplacement
 
 ## Liens connexes
-- [[Clyro OS Dashboard]]
+- [[Clyro OS Dashboard 1]]
 - [[01_PROJETS/Clyro/Concurrents/Briefs FURY]]
