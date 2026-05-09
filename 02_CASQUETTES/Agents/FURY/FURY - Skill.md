@@ -38,7 +38,7 @@ bash /opt/data/skills/autonomous-ai-agents/fury-competitor-monitor/scripts/fury_
 
 - `/opt/data/fury_monitor/daily_brief.md` — Daily intelligence brief (temp)
 - `/opt/data/fury_monitor/signals.json` — Structured signal data
-- **Brief FURY vault** → `/root/Documents/Obsidian Vault/Clyro OS/01_PROJETS/Clyro/Clients/CNT Patrimoine/Concurrents_CNT/Brief FURY YYYY-MM-DD.md`
+- **Brief FURY vault** → `/root/Documents/Obsidian Vault/Clyro OS/01_PROJETS/Clyro/Clients/CNT Patrimoine/Concurrents_CNT/Briefs/Brief FURY YYYY-MM-DD.md`
 - `/opt/data/fury_monitor/history/` — Historical snapshots (one per day)
 
 ## Signals Detected
