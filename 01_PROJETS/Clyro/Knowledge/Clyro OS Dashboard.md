@@ -1,6 +1,6 @@
 # 🏠 Clyro OS — Dashboard
 
-> **Dernière mise à jour :** 2026-05-08
+> **Dernière mise à jour :** 2026-05-09
 > **Géré par :** JARVIS (CEO Agent) · COULSON (Knowledge Management)
 
 ---
