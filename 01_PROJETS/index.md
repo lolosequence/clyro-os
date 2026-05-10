@@ -1,6 +1,6 @@
 # 📁 Projets
 
-> **Dernière vérification :** 2026-05-09 · COULSON
+> **Dernière vérification :** 2026-05-10 · COULSON
 
 Répertoire central des projets Clyro.
 
