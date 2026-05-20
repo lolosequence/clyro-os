@@ -26,15 +26,16 @@ Clyro regroupe 3 axes :
 
 ## 🔧 Agents actifs
 
-| Agent | Rôle | Statut |
-|---|---|---|
-| **JARVIS** | CEO / Chef d'orchestre | ✅ Actif |
-| **FURY** | Veille concurrentielle | ✅ Actif (cron 09:00) |
-| **COULSON** | Knowledge Management & SOPs | ✅ Actif |
-| **SHURI** | Delivery Ops | 🟡 Phase 2 |
-| **STEVE** | Growth & Prospection | 🟡 Phase 2 |
-| **STARK** | Product Discovery SaaS | 🟡 Phase 3 |
-| **MURDOCK** | Rédaction & Reporting | 🟡 Phase 3 |
+| Agent       | Rôle                        | Statut               |
+| ----------- | --------------------------- | -------------------- |
+| **JARVIS**  | CEO / Chef d'orchestre      | ✅ Actif              |
+| **FURY**    | Veille concurrentielle      | ✅ Actif (cron 09:00) |
+| **COULSON** | Knowledge Management & SOPs | ✅ Actif              |
+| **SHURI**   | Delivery Ops                | 🟡 Phase 2           |
+| **STEVE**   | Growth & Prospection        | 🟡 Phase 2           |
+| **STARK**   | Product Discovery SaaS      | 🟡 Phase 3           |
+| **MURDOCK** | Rédaction & Reporting       | 🟡 Phase 3           |
+|             |                             |                      |
 
 ## 📊 KPIs à suivre
 
