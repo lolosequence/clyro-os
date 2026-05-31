@@ -2,7 +2,7 @@
 
 **Statut :** ✅ Actif
 **Créé :** 2026-05-01
-**Mis à jour :** 2026-05-01
+**Mis à jour :** 2026-05-31
 **Responsable :** FURY (Worker Veille Concurrentielle)
 
 ## Contexte
@@ -28,7 +28,7 @@ Les patterns regex détectent : CTAs, tarifs, services, éléments de confiance.
 Un brief consolidé est généré dans `/opt/data/fury_monitor/daily_brief.md`.
 
 ### 5. Archivage (COULSON)
-Le brief est copié dans `30_Concurrents/` et référencé dans `30_Concurrents/Briefs FURY.md`.
+Si un brief est généré le jour même, COULSON l'archive dans `01_PROJETS/Clyro/Clients/CNT Patrimoine/Concurrents_CNT/` avec le nom `Brief FURY YYYY-MM-DD.md`.
 
 ## Checklist de sortie
 - [ ] Brief FURY généré et livrable à Laurent
@@ -38,6 +38,7 @@ Le brief est copié dans `30_Concurrents/` et référencé dans `30_Concurrents/
 ## Notes & Pièges à éviter
 - ⚠️ Les sites avec JavaScript dynamique ne sont pas scrapés → utiliser Playwright si besoin
 - ⚠️ Captchas ou Cloudflare → fallback vers cache
+- ⚠️ Ne pas créer de dossiers numérotés hérités (`10`, `20`, `30`, `40`, `50`, `90`) lors de l'archivage.
 - 💡 Ajouter des concurrents en éditant la skill `fury-competitor-monitor`
 
 ## Liens connexes
