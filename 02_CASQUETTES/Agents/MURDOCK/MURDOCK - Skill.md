@@ -1,3 +1,9 @@
+---
+type: casquette
+domain: ops
+updated: 2026-06-04
+---
+
 # MURDOCK — Skill (à créer)
 
 **Statut :** À définir lors de l'activation en Phase 3
