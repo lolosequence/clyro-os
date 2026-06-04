@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: jarvis-ceo-agent
 description: System prompt and operating instructions for JARVIS — CEO operational orchestration agent for Clyro (Laurent). Covers role, responsibilities, limits, worker roster (Marvel-themed), response format, and tone preferences.
 version: 2.0.0
