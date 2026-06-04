@@ -1,3 +1,9 @@
+---
+type: casquette
+domain: ops
+updated: 2026-06-04
+---
+
 # SHURI — Skill (à créer)
 
 **Statut :** À définir lors de l'activation en Phase 2
