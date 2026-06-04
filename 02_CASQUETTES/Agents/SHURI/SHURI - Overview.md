@@ -1,3 +1,9 @@
+---
+type: casquette
+domain: ops
+updated: 2026-06-04
+---
+
 # SHURI — Delivery Ops
 
 **Statut :** Phase 2 (à venir)
