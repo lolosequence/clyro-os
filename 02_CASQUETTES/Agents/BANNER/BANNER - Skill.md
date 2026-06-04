@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: banner-seo-strategist
 description: BANNER — SEO Strategist agent for the Jeanbrun content site. Designs topical maps, keyword clusters, content briefs, internal linking plans, refresh priorities, and search-intent-driven editorial roadmaps.
 version: 1.0.0
