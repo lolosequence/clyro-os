@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: github-repo-management
 description: Clone, create, fork, configure, and manage GitHub repositories. Manage remotes, secrets, releases, and workflows. Works with gh CLI or falls back to git + GitHub REST API via curl.
 version: 1.1.0
