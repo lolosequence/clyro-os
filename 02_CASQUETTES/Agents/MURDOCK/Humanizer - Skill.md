@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: humanizer
 description: "Humanize text: strip AI-isms and add real voice."
 version: 2.5.1
