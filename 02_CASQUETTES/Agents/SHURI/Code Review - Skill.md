@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: requesting-code-review
 description: >
   Pre-commit verification pipeline — static security scan, baseline-aware
