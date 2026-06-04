@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: obsidian
 description: Read, search, and create notes in the Obsidian vault.
 ---
