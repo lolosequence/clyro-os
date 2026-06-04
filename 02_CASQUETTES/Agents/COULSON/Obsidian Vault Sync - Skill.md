@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: obsidian-vault-sync
 description: Setup and maintain Git-based sync between Obsidian vault on this server and the local PC. Covers HTTPS PAT auth, repo init, push/pull, Obsidian Git config, and common troubleshooting.
 ---
