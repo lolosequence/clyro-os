@@ -1,3 +1,9 @@
+---
+type: casquette
+domain: ops
+updated: 2026-06-04
+---
+
 # Hermes — Contexte Complet
 
 > Créé le 2025-05-03
