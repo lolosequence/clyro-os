@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: fury-competitor-monitor
 description: FURY — regional competitor intelligence agent for Clyro. Monitors local competitors by city/region, verifies Google Business Profile, social media presence + activity, Google reviews, and websites. Produces a daily brief + structured JSON with confidence levels per signal. Designed for local business prospecting.
 version: 2.0.0
