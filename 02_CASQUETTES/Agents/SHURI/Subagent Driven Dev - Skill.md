@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: subagent-driven-development
 description: Use when executing implementation plans with independent tasks. Dispatches fresh delegate_task per task with two-stage review (spec compliance then code quality).
 version: 1.1.0
