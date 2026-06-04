@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: coulson-knowledge-sop
 description: COULSON — Knowledge Management & SOP agent for Clyro. Manages the Obsidian vault, creates/updates SOPs, documents decisions, organizes notes, and maintains the knowledge base structure for JARVIS and all workers.
 version: 1.0.0
