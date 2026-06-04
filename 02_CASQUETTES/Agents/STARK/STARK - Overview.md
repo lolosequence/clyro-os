@@ -1,3 +1,9 @@
+---
+type: casquette
+domain: ops
+updated: 2026-06-04
+---
+
 # STARK — Product Discovery SaaS
 
 **Statut :** Phase 3 (à venir)
