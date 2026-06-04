@@ -1,3 +1,9 @@
+---
+type: casquette
+domain: ops
+updated: 2026-06-04
+---
+
 # Clyro — Pack de profils Hermes
 
 Ce document définit une équipe de profils Hermes simple, spécialisée et exploitable pour Clyro. Les profils Hermes ont chacun leur propre contexte, configuration, mémoire et état, et le système Kanban permet ensuite d’assigner des tâches à ces profils pour exécution par des workers. [cite:312][cite:322][cite:325]
