@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: nginx-ssl-hostinger-vps
 description: Configure Nginx reverse proxy with Let's Encrypt SSL on a Hostinger VPS. Covers dual-domain setups, HTTP-01 pitfalls (blocked by Hostinger network), DNS-01 certbot workflow, and certificate renewal automation.
 tags: ["nginx", "ssl", "letsencrypt", "certbot", "hostinger", "vps", "reverse-proxy"]
