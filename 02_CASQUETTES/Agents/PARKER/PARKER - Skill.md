@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: parker-content-creator
 description: PARKER — Content Creator agent for the Jeanbrun content site. Creates pillar pages, blog articles, FAQs, refreshes, and conversion-oriented editorial assets from SEO briefs and topic opportunities.
 version: 1.0.0
