@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: runtime-debuggers
 description: "Debug live processes: Python (pdb/debugpy/remote-pdb), Node.js (--inspect/CDP), and Hermes TUI slash commands (Python↔gateway↔Ink layers)."
 version: 1.0.0
