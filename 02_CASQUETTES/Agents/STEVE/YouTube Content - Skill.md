@@ -1,4 +1,7 @@
 ---
+type: casquette
+domain: ops
+updated: 2026-06-04
 name: youtube-content
 description: >
   Fetch YouTube video transcripts and transform them into structured content
