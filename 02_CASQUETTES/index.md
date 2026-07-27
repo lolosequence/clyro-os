@@ -8,5 +8,5 @@ Répertoire des agents Clyro et de leurs profils.
 
 | Dossier | Description |
 |---|---|
-| [[Agents/index\|Agents]] | Fiches individuelles (Soul, Skill, Overview) |
+| [[02_CASQUETTES/Clyro/Clyro_OS/Agents/index\|Agents]] | Fiches individuelles (Soul, Skill, Overview) |
 | [[Profils_kanban]] | Kanban des profils Hermes |
